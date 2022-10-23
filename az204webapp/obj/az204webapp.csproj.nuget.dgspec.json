@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ObinnaPC\\source\\repos\\az204webapp\\az204webapp\\az204webapp.csproj": {}
+    "C:\\Users\\ObinnaPC\\Desktop\\az204webapp\\az204webapp\\az204webapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ObinnaPC\\source\\repos\\az204webapp\\az204webapp\\az204webapp.csproj": {
+    "C:\\Users\\ObinnaPC\\Desktop\\az204webapp\\az204webapp\\az204webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ObinnaPC\\source\\repos\\az204webapp\\az204webapp\\az204webapp.csproj",
+        "projectUniqueName": "C:\\Users\\ObinnaPC\\Desktop\\az204webapp\\az204webapp\\az204webapp.csproj",
         "projectName": "az204webapp",
-        "projectPath": "C:\\Users\\ObinnaPC\\source\\repos\\az204webapp\\az204webapp\\az204webapp.csproj",
+        "projectPath": "C:\\Users\\ObinnaPC\\Desktop\\az204webapp\\az204webapp\\az204webapp.csproj",
         "packagesPath": "C:\\Users\\ObinnaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ObinnaPC\\source\\repos\\az204webapp\\az204webapp\\obj\\",
+        "outputPath": "C:\\Users\\ObinnaPC\\Desktop\\az204webapp\\az204webapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ObinnaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
